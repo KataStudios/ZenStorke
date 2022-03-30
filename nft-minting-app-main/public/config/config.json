@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5FB74ce3A15a27617C76fF4234281b1727582EF0",
+  "SCAN_LINK": "https://polygonscan.com/address/0x5fb74ce3a15a27617c76ff4234281b1727582ef0",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Zen Storke NFT",
+  "SYMBOL": "Zen Storke",
+  "MAX_SUPPLY": 250,
+  "WEI_COST": 6000000000000000000,
+  "DISPLAY_COST": 6,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/zen-storke",
+  "SHOW_BACKGROUND": true
+}
